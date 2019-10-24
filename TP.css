@@ -1,0 +1,39 @@
+.Corps {
+    background-color: rgb(92, 37, 6);
+}
+table, {
+
+}
+td {
+    border: 1px solid gray;
+}
+
+thead,
+tfoot {
+    background-color: gray;
+    color: #fff;
+}
+.title {
+    color: orangered;
+    display: flex;
+    justify-content: center;
+}
+.image1 {
+    text-align: center;
+}
+.validation {
+    display: flex;
+    justify-content: center;
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+surprise {
+    display: none;
+}
+img:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
